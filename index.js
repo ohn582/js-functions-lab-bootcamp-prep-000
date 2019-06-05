@@ -20,5 +20,5 @@ function holidayCountdown() {
   var holiday = 'Mother\'s Day';
   var days = '20'
   
-  return  `It\'s ${days} untill ${holiday}!`;
+  return  `It\'s ${days} days untill ${holiday}!`;
 }

@@ -14,3 +14,7 @@ function happyHolidayTo() {
   var holiday = 'Independence Day';
   return `Happy ${holiday}, ${name}!`;
 }
+
+function holidayCountdown() {
+  return
+}

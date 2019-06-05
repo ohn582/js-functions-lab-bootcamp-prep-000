@@ -4,13 +4,13 @@ function happyHolidays() {
   return "Happy holidays!";
 }
 
-function happyHolidayTo() {
+function happyHolidaysTo() {
   var name = 'you';
   return `Happy holidays, ${name}!`;
 }
 
 function happyHolidaysTo() {
   var name = 'you';
-  var holiday = 'holidays';
+  var holiday = 'Independence Day';
   return `Happy ${holiday}, ${name}!`;
 }

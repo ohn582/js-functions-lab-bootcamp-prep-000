@@ -11,6 +11,6 @@ function happyHolidaysTo() {
 
 function happyHolidaysTo() {
   var name = 'you';
-  var holiday = 'kawanza';
+  var holiday = 'holidays';
   return `Happy ${holiday}, ${name}!`;
 }

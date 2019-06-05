@@ -16,7 +16,7 @@ function happyHolidayTo() {
 }
 
 function holidayCountdown() {
-  var holiday = 'Mothers Day';
+  var holiday = 'Mother\'s Day';
   var days = '20'
   return
 }
